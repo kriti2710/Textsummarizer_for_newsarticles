@@ -3,3 +3,4 @@ A text summarizer condenses lengthy documents into concise summaries, highlighti
 
 
 NLP is better to be done on google colab, that's why it was used. 
+
